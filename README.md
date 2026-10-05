@@ -23,11 +23,11 @@
 ```js
 const fadhil = {
   username: "fadhilabbr",
-  role: "[Web Developer / Mahasiswa / dsb.]",   // ← ganti
+  role: "Informatics Engineering Student & Web Developer",
   location: "Indonesia 🇮🇩",
-  currentlyBuilding: "[proyek yang sedang dikerjakan]",   // ← ganti
-  currentlyLearning: ["[teknologi 1]", "[teknologi 2]"],   // ← ganti
-  funFact: "[hal unik tentang kamu]",                      // ← ganti
+  currentlyBuilding: "Full-stack web applications with Next.js",
+  currentlyLearning: ["ROS 2", "UAV Systems", "Machine Learning"],
+  funFact: "I started with competitive programming and ended up building web apps, AI systems, and UAVs.",
   openTo: ["Kolaborasi", "Open Source", "Diskusi teknologi"],
 };
 ```
