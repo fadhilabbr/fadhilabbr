@@ -104,9 +104,9 @@ const fadhil = {
 
 <div align="center">
 
-<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=0d1117" alt="email" /></a>
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=0d1117&labelColor=0d1117" alt="linkedin" /></a>
-<a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&color=0d1117&labelColor=0d1117" alt="instagram" /></a>
+<a href="mailto:rifqifadhil502@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=0d1117" alt="email" /></a>
+<a href="https://linkedin.com/in/rifqifadhila"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=0d1117&labelColor=0d1117" alt="linkedin" /></a>
+<a href="https://instagram.com/rifqifadhil21_"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&color=0d1117&labelColor=0d1117" alt="instagram" /></a>
 <a href="https://github.com/fadhilabbr"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117" alt="github" /></a>
 
 <br/><br/>
