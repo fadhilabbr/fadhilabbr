@@ -1,90 +1,116 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-# Hai, saya [RIFQI FADHIL ABRAR] 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:1f6feb&text=Fadhil%20Abbr&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-**[Profesi/Bidang, contoh: Web Developer | Mahasiswa Teknik Informatika]**
+<a href="https://github.com/fadhilabbr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Hai%2C+saya+Fadhil+%F0%9F%91%8B;Membangun+hal+yang+berguna+%F0%9F%9A%80;Selalu+belajar%2C+selalu+berkembang+%F0%9F%93%9A;Open+untuk+kolaborasi+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-Suka membangun hal-hal yang berguna dan terus belajar setiap hari.
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG)
+<img src="https://komarev.com/ghpvc/?username=fadhilabbr&label=Profile%20Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" alt="views" />
+<img src="https://img.shields.io/github/followers/fadhilabbr?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb" alt="followers" />
+<img src="https://img.shields.io/github/stars/fadhilabbr?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb" alt="stars" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Tentang Saya
+<!-- ============ ABOUT ============ -->
+## 👨‍💻 &nbsp;Tentang Saya
 
-- 🎓 Sedang menempuh/lulusan **[jurusan / kampus]**
-- 🔭 Sedang mengerjakan **[proyek yang sedang dibuat]**
-- 🌱 Sedang belajar **[teknologi yang sedang dipelajari]**
-- 💬 Tanya saya soal **[topik yang kamu kuasai]**
-- 📍 Berbasis di **Indonesia**
-- ⚡ Fun fact: **[hal unik tentang kamu]**
+```js
+const fadhil = {
+  username: "fadhilabbr",
+  role: "[Web Developer / Mahasiswa / dsb.]",   // ← ganti
+  location: "Indonesia 🇮🇩",
+  currentlyBuilding: "[proyek yang sedang dikerjakan]",   // ← ganti
+  currentlyLearning: ["[teknologi 1]", "[teknologi 2]"],   // ← ganti
+  funFact: "[hal unik tentang kamu]",                      // ← ganti
+  openTo: ["Kolaborasi", "Open Source", "Diskusi teknologi"],
+};
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-**Bahasa Pemrograman**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Framework & Library**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-> Hapus badge yang tidak kamu pakai, tambahkan yang kamu kuasai di [shields.io](https://shields.io) atau [simpleicons.org](https://simpleicons.org).
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek | Deskripsi | Teknologi |
-|--------|-----------|-----------|
-| [Nama Proyek 1](https://github.com/USERNAME/REPO1) | Deskripsi singkat satu kalimat | React, Node.js |
-| [Nama Proyek 2](https://github.com/USERNAME/REPO2) | Deskripsi singkat satu kalimat | Laravel, MySQL |
-| [Nama Proyek 3](https://github.com/USERNAME/REPO3) | Deskripsi singkat satu kalimat | Python |
-
----
-
-## 📊 Statistik GitHub
+<!-- ============ TECH STACK ============ -->
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true)
-![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,php,laravel&theme=dark" alt="languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,figma,docker&theme=dark" alt="tools" />
 
 </div>
 
----
+<br/>
 
-## 🎯 Target Saya
-
-- [ ] Menyelesaikan proyek **[nama proyek]**
-- [ ] Berkontribusi ke proyek open source
-- [ ] Mendalami **[teknologi]**
-
----
+<!-- ============ STATS ============ -->
+## 📊 &nbsp;Statistik GitHub
 
 <div align="center">
 
-⭐ Kalau ada proyek saya yang bermanfaat, jangan ragu kasih bintang ya!
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fadhilabbr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilabbr&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=fadhilabbr&hide_border=true&background=0d1117&stroke=30363d&ring=1f6feb&fire=f78166&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ============ PROJECTS ============ -->
+<!-- ## 🚀 &nbsp;Proyek Unggulan
+
+<div align="center">
+
+<a href="https://github.com/fadhilabbr/NAMA-REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhilabbr&repo=NAMA-REPO-1&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="project 1" />
+</a>
+<a href="https://github.com/fadhilabbr/NAMA-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhilabbr&repo=NAMA-REPO-2&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="project 2" />
+</a>
+<br/>
+<a href="https://github.com/fadhilabbr/NAMA-REPO-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhilabbr&repo=NAMA-REPO-3&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="project 3" />
+</a>
+<a href="https://github.com/fadhilabbr/NAMA-REPO-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhilabbr&repo=NAMA-REPO-4&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="project 4" />
+</a>
+
+</div>
+
+> 💡 Ganti `NAMA-REPO-1` dst. dengan nama repositori aslimu (ada di URL repositori).
+
+<br/> -->
+
+<!-- ============ ACTIVITY ============ -->
+## 📈 &nbsp;Grafik Kontribusi
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fadhilabbr/fadhilabbr/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ============ CONTACT ============ -->
+## 📫 &nbsp;Mari Terhubung
+
+<div align="center">
+
+<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=0d1117" alt="email" /></a>
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=0d1117&labelColor=0d1117" alt="linkedin" /></a>
+<a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&color=0d1117&labelColor=0d1117" alt="instagram" /></a>
+<a href="https://github.com/fadhilabbr"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117" alt="github" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:1f6feb&section=footer" width="100%" alt="footer" />
 
 </div>
